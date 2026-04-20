@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "@fastify/multipart": "^10.0.0",
     "@opendataloader/pdf": "^2.2.1",
